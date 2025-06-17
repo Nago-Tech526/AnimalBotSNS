@@ -16,3 +16,9 @@
 3. **セキュリティ**: OAuth 2.0 による認証と HTTPS 通信を必須とする。
 4. **可用性**: サーバー稼働率 99.9% を維持する。
 5. **メンテナンス性**: テストコードを整備し、CI/CD で自動デプロイを行う。
+
+## Repository Structure
+- `frontend/` - Next.js frontend application
+- `backend/` - FastAPI backend API
+- `ios-app/` - SwiftUI based iOS application
+- `tests/` - Automated tests
